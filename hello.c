@@ -5,4 +5,5 @@ int main() {
     for(short i = 0; hy[i] != '\0'; i++)
         PrintChar(hy[i]);
     NextLine();
+    return 0;
 }
